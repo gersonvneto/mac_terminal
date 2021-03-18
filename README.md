@@ -1,0 +1,1 @@
+ZSH Terminal Color Preferences
